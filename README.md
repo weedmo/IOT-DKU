@@ -92,19 +92,18 @@ Initially, we planned to use a **load cell** to measure food weight, but due to 
 - Owners can manage feeding remotely, even while away
 
 ---
+### 🐶 Feeding Condition Comparison
 
-## 📷 Images (Examples)
+<p align="center">
+  <a href="https://youtu.be/vuacu80U3gY?si=HfdGNGmQD7qi5-7F" target="_blank">
+    <img src="https://img.youtube.com/vi/vuacu80U3gY/0.jpg" width="45%" alt="No Food"><br>
+    <strong>🔴 No Food Available</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/LXwTHvFJSxg?si=M2wRbNMIxq01AL5A" target="_blank">
+    <img src="https://img.youtube.com/vi/LXwTHvFJSxg/0.jpg" width="45%" alt="With Food"><br>
+    <strong>🟢 Food Dispensed</strong>
+  </a>
+</p>
 
-> 💡 Consider adding real photos or circuit diagrams here if using for GitHub or reports.
-
-- Fig 1: Arduino Uno  
-- Fig 2: Servo Motors  
-- Fig 3: HC-06 Bluetooth  
-- Fig 4: MIT App UI  
-- Fig 5: HC-SR04 Ultrasonic Sensor  
-- Fig 6: Piezo Buzzer  
-- Fig 7–10: Full Wiring and Assembly
-
----
-
-Let me know if you’d like this in **PDF**, or if you want a **poster/PPT version** for presentation!
+For more details, please use pdf and ppt.
