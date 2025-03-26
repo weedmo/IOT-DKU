@@ -108,6 +108,7 @@ Initially, we planned to use a **load cell** to measure food weight, but due to 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="color: green; font-weight: bold;">🟢 Food Dispensed</span>
 </p>
+
 ---
 
 For more details, please use pdf and ppt.
