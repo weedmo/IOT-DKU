@@ -4,6 +4,7 @@
 **Project Title**: Remote Pet Food Dispenser Using IoT
 
 ---
+![image](https://github.com/user-attachments/assets/9a2f0433-20d5-4f2c-bf30-6b98e8cd173b)
 
 ## 📌 Overview
 
@@ -61,33 +62,8 @@ Initially, we planned to use a **load cell** to measure food weight, but due to 
 
 ## 🔌 Circuit Diagram & Connections
 
-- **Servo Motor 1** (food dispensing):  
-  - VCC → 5V  
-  - GND → GND  
-  - Signal → D8  
+![image](https://github.com/user-attachments/assets/3f541c81-83f3-4879-82fe-95f49c30e78d)
 
-- **Servo Motor 2** (food mixing):  
-  - Signal → D5  
-
-- **Bluetooth Module (HC-06)**:  
-  - VCC → 5V  
-  - GND → GND  
-  - TXD → D10  
-  - RXD → D9  
-
-- **Ultrasonic Sensor (HC-SR04)**:  
-  - VCC → 5V  
-  - GND → GND  
-  - Trig → D12  
-  - Echo → D13  
-
-- **Piezo Buzzer**:  
-  - + → Arduino pin  
-  - – → GND  
-
-- **Arduino Uno**:  
-  - Connected to PC via USB  
-  - Power distributed via breadboard rails
 
 ---
 
