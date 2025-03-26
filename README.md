@@ -5,12 +5,10 @@
 
 ---
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/9a2f0433-20d5-4f2c-bf30-6b98e8cd173b)" width="45%" style="margin-right: 10px;">
-  <img src="![image](https://github.com/user-attachments/assets/c6633e39-38e8-4793-b7b1-9a94a9daf279)" width="45%">
+  <img src="https://github.com/user-attachments/assets/9a2f0433-20d5-4f2c-bf30-6b98e8cd173b" width="45%" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/c6633e39-38e8-4793-b7b1-9a94a9daf279" width="45%">
 </p>
 
-![image](https://github.com/user-attachments/assets/9a2f0433-20d5-4f2c-bf30-6b98e8cd173b)
-![image](https://github.com/user-attachments/assets/c6633e39-38e8-4793-b7b1-9a94a9daf279)
 
 ## 📌 Overview
 
