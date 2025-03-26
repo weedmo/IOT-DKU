@@ -92,18 +92,22 @@ Initially, we planned to use a **load cell** to measure food weight, but due to 
 - Owners can manage feeding remotely, even while away
 
 ---
-### 🐶 Feeding Condition Comparison
+<h3>🐶 Feeding Condition Comparison</h3>
 
 <p align="center">
   <a href="https://youtu.be/vuacu80U3gY?si=HfdGNGmQD7qi5-7F" target="_blank">
-    <img src="https://img.youtube.com/vi/vuacu80U3gY/0.jpg" width="45%" alt="No Food"><br>
-    <strong>🔴 No Food Available</strong>
+    <img src="https://img.youtube.com/vi/vuacu80U3gY/0.jpg" width="45%" alt="No Food">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://youtu.be/LXwTHvFJSxg?si=M2wRbNMIxq01AL5A" target="_blank">
-    <img src="https://img.youtube.com/vi/LXwTHvFJSxg/0.jpg" width="45%" alt="With Food"><br>
-    <strong>🟢 Food Dispensed</strong>
+    <img src="https://img.youtube.com/vi/LXwTHvFJSxg/0.jpg" width="45%" alt="Food Dispensed">
   </a>
 </p>
+
+<p align="center">
+  <span style="color: red; font-weight: bold;">🔴 No Food Available</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="color: green; font-weight: bold;">🟢 Food Dispensed</span>
+</p>
+---
 
 For more details, please use pdf and ppt.
